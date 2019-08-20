@@ -1,0 +1,3 @@
+Color Picker
+   A clone of websites like Flat UI Colors and Material UI Colors.
+   
